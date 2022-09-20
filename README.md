@@ -21,5 +21,4 @@ The factor $k$ is a weighting coefficient that signifies the relative importance
 
 # Model Walkthrough
 
-
-![optimization-flowchart-1](https://user-images.githubusercontent.com/64721988/191049929-d3ae9bc0-a4d9-4aad-9b77-89439da98a6d.png)
+<img src="https://user-images.githubusercontent.com/64721988/191049929-d3ae9bc0-a4d9-4aad-9b77-89439da98a6d.png" width=40% height=40%>
